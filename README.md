@@ -69,7 +69,7 @@ Sub-domain takeover vulnerability occur when a sub-domain (**subdomain.example.c
 ## Installation:
 
 ```shell
-git clone https://github.com/m4ll0k/takeover.git
+git clone https://github.com/spinfal/takeover.git
 cd takeover
 python3 setup.py install
 ```
@@ -77,7 +77,7 @@ python3 setup.py install
 **or:**
 
 ```
-wget -q https://raw.githubusercontent.com/m4ll0k/takeover/master/takeover.py && python3 takeover.py
+wget -q https://raw.githubusercontent.com/spinfal/takeover/master/takeover.py && python3 takeover.py
 ```
 
 ## Usage
