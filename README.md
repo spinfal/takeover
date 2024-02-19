@@ -1,3 +1,7 @@
+# Important
+The original repo (`m4ll0k/takeover`) was removed from GitHub, this repo is here to simply act as another archival source to provide users access to this project.\
+You can alternatively use Archive.org to access the files, however there will be no git support: https://web.archive.org/web/20221115220732/https://github.com/m4ll0k/takeover
+
 # Takeover - Subdomain Takeover Finder v0.2
 
 ![screen](screen1.png)
